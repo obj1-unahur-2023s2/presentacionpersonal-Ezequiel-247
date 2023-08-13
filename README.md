@@ -7,4 +7,4 @@ Eh empezado a cursar en la UNAHUR a mediados de 2021 en la carrera de tecnicatur
 
 
 
-![subir archivo de imagen](imagen.jpg)
+
