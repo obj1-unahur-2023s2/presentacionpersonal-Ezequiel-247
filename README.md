@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](assets/foto_mia.jpg)
 # Eduardo Ezequiel Ortiz
 
 Hola a toda la cursada! Me llamo Ezequiel, soy estudiante de la carrera tecnicatura en programacion desde el 2022. Soy la clase de estudiante que siempre esta dispuesto a aprender y mantener firme el camino a pesar de que en ocaciones la trayectoria de la carrera se torna dificil.
