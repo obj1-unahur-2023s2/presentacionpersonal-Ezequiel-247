@@ -1,38 +1,10 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
+# Eduardo Ezequiel Ortiz
 
-Bienvenidos a
-# Programación con objetos I
+Hola a toda la cursada! Me llamo Ezequiel, soy estudiante de la carrera tecnicatura en programacion desde el 2022. Soy la clase de estudiante que siempre esta dispuesto a aprender y mantener firme el camino a pesar de que en ocaciones la trayectoria de la carrera se torna dificil.
+Me eh dedicado a trabajar en obras para la construccion desempeñando el rubro de "pintor de obras" desde que egrese (2013) hasta el momento.
+Eh empezado a cursar en la UNAHUR a mediados de 2021 en la carrera de tecnicatura en informatica si bien al principio fue muy dificil volver a estudiar, a travez de la perseverancia y la buena voluntad pudimos avanzar obstaculos muy dificiles, encontrandonos en esta materia. 
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
-
-### Presentacion Personal
-
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
 
 ![subir archivo de imagen](imagen.jpg)
